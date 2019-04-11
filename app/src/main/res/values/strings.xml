@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Running_app</string>
+    <string name="start">Start Tracking</string>
+    <string name="distanse">Distance</string>
+    <string name="time">Time</string>
+    <string name="location_permission_denied">Permission Denied</string>
+    <string name="location_text">"Latitude:\t\t\t\t\t %1$.4f \nLongitude:\t\t %2$.4f \nSpeed:\t\t\t\t\t\t\t\t\t %3$.2f \nDirection:\t\t\t\t %4$.2f \nAltitude:\t\t\t\t\t\t %5$.2f"</string>
+    <string name="no_location">No location found, sorry!</string>
+    <string name="stop_tracking_location">Stop Tracking</string>
+    <string name="location_running">"Time spent:\t%1$s \nDistance:\t%2$.4f</string>
+    <string name="resetTimer_59">59</string>
+    <string name="insertZeroInTimer">00</string>
+    <string name="resetTimer_60">60</string>
+</resources>
